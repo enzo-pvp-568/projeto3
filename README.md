@@ -24,7 +24,7 @@ margin: 0 auto;
 </head>
 <body>
 <header>
-<h1>Jorge Ben</h1>
+<h1>Mc Kevin</h1>
 <p>foi um famoso cantor e compositor brasileiro de funk paulista e trap...</p>
 </header>
 <main>

@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-9">
 <meta name="viewport" content="width=device-width, initial-scale=1.1">
 <title>Mc Kevin</title>
 
@@ -15,7 +15,7 @@ max-width: 800px;
 margin: 0 auto;
 }
 main {
-background-color: red;
+background-color: cl1010;
 color: #FFFFFF;
 text-align: center;
 max-width: 800px;

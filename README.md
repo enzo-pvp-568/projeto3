@@ -6,14 +6,14 @@
 
 <style>
 header{
-background-color: blue;
+background-color: black;
 color: #FFFFFF;
 text-align: center;
 max-width: 800px;
 margin: 0 auto;
 }
 main {
-background-color: yellow;
+background-color: red;
 color: #FFFFFF;
 text-align: center;
 max-width: 800px;
